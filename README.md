@@ -1,0 +1,2 @@
+# prueba
+Instalación de componentes
